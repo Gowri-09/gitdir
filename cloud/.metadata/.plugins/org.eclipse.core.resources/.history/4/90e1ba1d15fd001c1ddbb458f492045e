@@ -1,0 +1,4 @@
+spring.config.import=optional:configserver:http://localhost:8888
+Management.endpoints.web.exposure.include=*
+
+server.port=9090

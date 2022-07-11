@@ -1,0 +1,13 @@
+package com.example.insuranceclient;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class InsuranceClient1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(InsuranceClient1Application.class, args);
+	}
+
+}
